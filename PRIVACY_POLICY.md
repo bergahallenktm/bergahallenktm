@@ -13,7 +13,7 @@ The App is built on a decentralized model. The app developer does not operate a 
 
 ## 3. Device Permissions
 To provide its features, the App requires the following permission:
-* **Camera Access:** Used solely to scan Magic: The Gathering cards locally on your device using Machine Learning (ML Kit). Image data is processed in real-time on your phone and is **never** recorded, stored, or transmitted to external servers.
+* **Camera Access:** Used solely for QR-code scan and to scan Magic: The Gathering cards locally on your device using Machine Learning (ML Kit). Image data is processed in real-time on your phone and is **never** recorded, stored, or transmitted to external servers.
 
 ## 4. Third-Party Services & Tracking
 The App does not use third-party analytics, tracking services, advertising networks, or data brokers.
