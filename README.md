@@ -1,16 +1,29 @@
-## Hi there 👋
+# BergaHallen KTM
 
-<!--
-**bergahallenktm/bergahallenktm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Offline-first Magic: The Gathering match tools with optional self-hosting.**
 
-Here are some ideas to get you started:
+BergaHallen KTM is a personal/community project focused on local play, simple match tracking and optional self-hosted shared data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Start here
+
+**[Project homepage →](https://bergahallenktm.github.io/)**
+
+## Public repositories
+
+| Repository | Purpose |
+|---|---|
+| [bergahallenktm](https://github.com/bergahallenktm/bergahallenktm) | Project documentation and policies |
+| [bergahallenktm-server-installer](https://github.com/bergahallenktm/bergahallenktm-server-installer) | Recommended Installer & Manager |
+| [bergahallenktm-server](https://github.com/bergahallenktm/bergahallenktm-server) | Manual server distribution |
+
+## Install a server
+
+For most users:
+
+**[Open Installer & Manager releases →](https://github.com/bergahallenktm/bergahallenktm-server-installer/releases)**
+
+The standalone server repository is intended for manual/advanced installation.
+
+> The project is under active development. Not all source code or components are publicly distributed yet.
+
+BergaHallen KTM is an independent fan-made project and is not affiliated with or endorsed by Wizards of the Coast.
